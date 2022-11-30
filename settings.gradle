@@ -1,0 +1,2 @@
+include ':DeploymentConfig'
+rootProject.name = "DeploymentConfigForScanner"

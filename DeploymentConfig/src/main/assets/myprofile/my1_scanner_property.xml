@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<propertygroup>
+    <profileName>my1</profileName>
+    <scanwedgeEnable>true</scanwedgeEnable>
+    <profileEnable>true</profileEnable>
+    <profilePackages packageName="com.android.chrome">*</profilePackages>
+    <property id="8216" name="SUSPENSION_BUTTON">1</property>
+    <property id="10" name="GOOD_READ_VIBRATE_ENABLE">1</property>
+</propertygroup>
